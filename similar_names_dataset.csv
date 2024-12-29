@@ -1,0 +1,102 @@
+Name,Address,DOB
+John Smith,"123 Maple Street, Sydney",1980-05-15
+Jon Smyth,"123 Maple St., Sydney",1980-05-15
+Jonathan Smithe,"123 Maple Street, Syd.",1980-05-15
+Jane Doe,"456 Oak Avenue, Melbourne",1990-07-10
+Janet Doe,"456 Oak Ave, Melbourne",1990-07-10
+Jayne D,"456 O. Avenue, Melb.",1990-07-10
+Robert Brown,"789 Pine Road, Brisbane",1975-03-20
+Bob Brown,"789 Pine Rd, Brisbane",1975-03-20
+Rob Braun,"789 P. Road, Brisb.",1975-03-20
+Emily White,"321 Elm Street, Perth",1985-11-25
+Michael Johnson,"10 Baker Street, Sydney",1982-02-15
+Micheal Johnston,"10 Bkr St., Syd",1982-02-15
+M. Johnsen,"10 B. Street, Sydney CBD",1982-02-15
+Sarah Williams,"25 King Road, Melbourne",1995-08-25
+Sara Willams,"25 King Rd, Melbourne VIC",1995-08-25
+S. W.,"25 K. Rd., Melb",1995-08-25
+David Brown,"50 Queen Avenue, Brisbane",1977-09-12
+Dave Braun,"50 Q. Ave, Brisbane City",1977-09-12
+D. B.,"50 Queen Avnue, Bris",1977-09-12
+Daniel Browne,"50 Queen Ave, Bris",1977-09-12
+Emily White,"100 Elm Street, Perth",1985-11-25
+Emilia Wite,"100 E. St., Perth WA",1985-11-25
+E. W.,"100 Elms St, Perth Western Australia",1985-11-25
+John Smith,"75 Pine Street, Adelaide",1990-03-18
+Jon Smythe,"75 Pn. St., Adel",1990-03-18
+J. S.,"75 Pine Str., Adelaide City",1990-03-18
+Rachel Green,"30 Oak Avenue, Canberra",1988-06-14
+Rachelle Greene,"30 Oak Ave., ACT",1988-06-14
+R. G.,"30 O. Av., Canberra Territory",1988-06-14
+Benjamin Lee,"15 Maple Drive, Hobart",1983-04-22
+Ben Le,"15 M. Drv., Hobart TAS",1983-04-22
+B. L.,"15 Maple Dr, Hobart City",1983-04-22
+Jennifer Brown,"200 Cedar Lane, Geelong",1992-12-03
+Jenny Browne,"200 C. Ln., Geelong VIC",1992-12-03
+J. B.,"200 Cedar Ln, G’long",1992-12-03
+William Taylor,"80 River Road, Bendigo",1979-07-19
+Will Tayler,"80 Rvr. Rd., Bendigo VIC",1979-07-19
+W. T.,"80 River Rd, Bendigo",1979-07-19
+Olivia Davis,"40 Park Boulevard, Ballarat",1987-10-30
+Olive Davies,"40 P. Blvd., Ballarat VIC",1987-10-30
+O. D.,"40 Park Blvd, Ballarat West",1987-10-30
+Sophia Brown,"5 Willow Lane, Townsville",1993-09-06
+Sophie Braun,"5 Wllw. Ln., Townsville QLD",1993-09-06
+S. B.,"5 Willow Ln, Townsville City",1993-09-06
+Matthew Harris,"60 Hilltop Road, Darwin",1989-01-13
+Matt Haris,"60 Hlltp. Rd., Darwin NT",1989-01-13
+M. H.,"60 Hill Rd, Darwin North",1989-01-13
+Charlotte Brown,"35 Cherry Street, Cairns",1990-11-27
+Charlie Browne,"35 C. St., Cairns QLD",1990-11-27
+C. B.,"35 Cherry St, Cairns City",1990-11-27
+Jacob Wilson,"20 Birch Avenue, Mackay",1986-03-05
+Jake Wilsen,"20 Brch. Av., Mackay QLD",1986-03-05
+J. W.,"20 Birch Ave, Mackay North",1986-03-05
+Lily Martin,"55 Spruce Street, Wollongong",1991-05-18
+L. Martin,"55 Spruce St., Wollongong NSW",1991-05-18
+Lilian Marten,"55 S. Str., W’gong",1991-05-18
+Alexander King,"12 Sunset Boulevard, Sydney",1984-07-21
+Alexzander Kinng,"12 S. Blvd., Syd",1984-07-21
+Alex Kinge,"12 Sunset Blvd, Sydney City",1984-07-21
+Isabella Moore,"33 Elm Avenue, Melbourne",1990-03-15
+Isabela More,"33 E. Av., Melb",1990-03-15
+Bella Moor,"33 Elm Ave, Melbourne VIC",1990-03-15
+Ethan Wright,"89 Willow Street, Brisbane",1987-11-12
+Ethen Right,"89 W. St., Bris",1987-11-12
+Wright E.,"89 Willow St, Brisbane CBD",1987-11-12
+Ava Green,"5 Birch Road, Perth",1993-05-09
+Avah Greene,"5 B. Rd., Perth WA",1993-05-09
+A. Green,"5 Birch Rd, Perth City",1993-05-09
+Noah Scott,"65 River Drive, Adelaide",1985-09-30
+Noh Scot,"65 R. Dr., Adel",1985-09-30
+N. Scott,"65 River Dr, Adelaide",1985-09-30
+Mia Adams,"21 Maple Lane, Canberra",1991-02-18
+Miah Addams,"21 M. Ln., ACT",1991-02-18
+M. Adams,"21 Maple Ln, Canberra Territory",1991-02-18
+Oliver Carter,"7 Pine Crescent, Hobart",1988-06-21
+Oliiv Cartr,"7 P. Cres., Hobart TAS",1988-06-21
+O. Carter,"7 Pine Cres, Hobart",1988-06-21
+Amelia Morgan,"45 Hilltop Road, Geelong",1992-10-25
+Amellia Morgann,"45 H. Rd., Geelong VIC",1992-10-25
+A. Morgan,"45 Hill Rd, G’long",1992-10-25
+Logan Reed,"90 Spruce Lane, Ballarat",1989-12-14
+Logn Read,"90 S. Ln., Ballarat VIC",1989-12-14
+L. Reed,"90 Spruce Ln, Ballarat City",1989-12-14
+Sophia Turner,"15 Cherry Avenue, Townsville",1990-04-10
+Sophie Turne,"15 C. Av., Townsville QLD",1990-04-10
+S. Turner,"15 Cherry Ave, Townsville",1990-04-10
+Harper Walker,"60 Cedar Street, Darwin",1993-01-22
+H. Walkr,"60 C. St., Darwin NT",1993-01-22
+Harper Walk,"60 Cedar St, Darwin",1993-01-22
+Charlotte Hall,"18 Oak Road, Cairns",1986-08-08
+Charlette Hll,"18 O. Rd., Cairns QLD",1986-08-08
+C. Hall,"18 Oak Rd, Cairns City",1986-08-08
+James Mitchell,"29 Birch Avenue, Mackay",1982-03-25
+J. Mitchel,"29 Brch. Av., Mackay QLD",1982-03-25
+James Mitchels,"29 Birch Ave, Mackay North",1982-03-25
+Ella Wilson,"11 Maple Drive, Wollongong",1994-11-15
+Ellah Wilsson,"11 M. Dr., Wollongong NSW",1994-11-15
+E. Wilson,"11 Maple Dr, W’gong",1994-11-15
+Henry Brown,"88 River Road, Bendigo",1987-06-11
+Henrie Braun,"88 R. Rd., Bendigo VIC",1987-06-11
+H. Brown,"88 River Rd, Bendigo City",1987-06-11
