@@ -9,7 +9,6 @@ from pathlib import Path
 import streamlit as st
 from elasticsearch import Elasticsearch
 from langchain_core.prompts import PromptTemplate
-from langchain.chains import LLMChain
 from dotenv import load_dotenv
 
 # Load .env from project root (works when run from src/ or notebooks/)
@@ -60,8 +59,9 @@ Example: ["123 Maple St., Sydney", "Street", "Str", "Syd", "Sydney"]
 Return ONLY a JSON array, no other text.""",
         input_variables=["address"],
     )
-    chain = LLMChain(llm=llm, prompt=prompt)
-    result = chain.run(address=input_address)
+    chain = prompt | llm
+    response = chain.invoke({"address": input_address})
+    result = response.content if hasattr(response, "content") else str(response)
     try:
         # Extract JSON array from response (handle markdown code blocks)
         text = result.strip()
@@ -119,12 +119,11 @@ Format as a table with columns: Name, Address, Match %, Duplicate?, Explanation.
 Sort by Match % descending. No preamble.""",
         input_variables=["search_name", "input_address", "response_names"],
     )
-    chain = LLMChain(llm=llm, prompt=prompt)
-    return chain.run(
-        search_name=search_name,
-        input_address=input_address,
-        response_names=response_names,
+    chain = prompt | llm
+    response = chain.invoke(
+        {"search_name": search_name, "input_address": input_address, "response_names": response_names}
     )
+    return response.content if hasattr(response, "content") else str(response)
 
 
 def main():
