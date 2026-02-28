@@ -1,0 +1,8 @@
+# Environment and secrets - never commit
+.env
+
+# Python
+__pycache__/
+
+# OS
+.DS_Store
