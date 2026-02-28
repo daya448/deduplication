@@ -8,7 +8,7 @@ from pathlib import Path
 
 import streamlit as st
 from elasticsearch import Elasticsearch
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from dotenv import load_dotenv
 
